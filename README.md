@@ -48,7 +48,7 @@ This configuration achieves:
     - Stable behavior without parameter collapse
 Any further improvement requires a different model, not further tuning.
 
-=======================================================================
+==========================================================================
 Notes for Self
 
 This model is not designed for:
@@ -60,4 +60,5 @@ Further gains require:
     - RetinaFace
     - YuNet
     - MediaPipe
+
     - YOLO-based face detectors
